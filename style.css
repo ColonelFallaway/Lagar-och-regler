@@ -19,3 +19,12 @@ h1
 			border-radius: 30%;
             position: absolute;
 		}
+.block1-class{
+background-color: lightblue;
+display: inline-block;
+border: none;
+margin-top: 1%;
+text-align: center;
+width: 100%;
+padding-top: 1%;
+}
