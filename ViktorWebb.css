@@ -44,10 +44,52 @@ padding-top: 100%;
 border-radius: 7%;
 position: absolute;
 box-sizing: border-box;
+border-style: groove;
+border-color: bisque;
+}
+
+.personaldataimg{
+	
+	width: 20px;
+	height: auto;
+	margin-top: 55%;
+	margin-left: 73%;
+	position: absolute;
+	display: inline-block;
+	border-radius: 8%;
+}
+
+.earthimg{
+	
+	width: 20px;
+	height: auto;
+	margin-top: 24%;
+	margin-left: 73%;
+	position: absolute;
+	display: inline-block;
+	border-radius: 8%;
+}
+
+.gavelimg{
+	
+	width: 20px;
+	height: auto;
+	margin-top: 80%;
+	margin-left: 73%;
+	position: absolute;
+	
+}
+.gavelcredit{
+	font-size: 80%;
+	color: white;
+	margin-top: 94%;
+	margin-left: 77.5%;
+	margin-right: 30%;
+	position: absolute;
 }
 
 .titele{
-	font-size: 200%;
+	font-size: 150%;
 	color: white;
 	margin-top: 17%;
 	margin-left: 10%;
@@ -55,7 +97,7 @@ box-sizing: border-box;
 	position: absolute;
 }
 .upg1{
-	font-size: 150%;
+	font-size: 112.5%;
 	color: white;
 	margin-top: 19.5%;
 	margin-left: 10%;
@@ -65,7 +107,7 @@ box-sizing: border-box;
 }
 
 .Text1{
-	font-size: 150%;
+	font-size: 112.5%;
 	color: white;
 	margin-top: 21%;
 	margin-left: 10%;
@@ -75,29 +117,167 @@ box-sizing: border-box;
 
 
 .upg2{
-	font-size: 150%;
+	font-size: 112.5%;
 	color: white;
-	margin-top: 32.5%;
+	margin-top: 31.5%;
 	margin-left: 10%;
 	width: 50%;
 	position: absolute;
 	font-size: 80%;
 }
 .titele2{
-	font-size: 200%;
+	font-size: 150%;
 	color: white;
-	margin-top: 30%;
+	margin-top: 29%;
 	margin-left: 10%;
 	width: 50%;
 	position: absolute;
 }
 
 .Text2{
-	font-size: 150%;
+	font-size: 112.5%;
 	color: white;
-	margin-top: 34%;
+	margin-top: 33%;
 	margin-left: 10%;
 	width: 50%;
 	position: absolute;
 }
 
+
+.titele3{
+	font-size: 150%;
+	color: white;
+	margin-top: 40%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+
+.upg3{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 42.5%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+	font-size: 80%;
+}
+
+.Text3{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 44%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+
+.titele4{
+	font-size: 150%;
+	color: white;
+	margin-top: 50.5%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+
+.upg4{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 53.5%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+	font-size: 80%;
+}
+.Text4{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 55%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+
+.titele5{
+	font-size: 150%;
+	color: white;
+	margin-top: 60.5%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+
+.upg5{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 64%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+	font-size: 80%;
+}
+
+.Text5{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 66%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+
+.titele6{
+	font-size: 150%;
+	color: white;
+	margin-top: 72.5%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+
+.upg6{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 75.5%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+	font-size: 80%;
+}
+
+.Text6{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 77%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+
+
+.titele7{
+	font-size: 150%;
+	color: white;
+	margin-top: 85.5%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
+.upg7{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 88.5%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+	font-size: 80%;
+}
+.Text7{
+	font-size: 112.5%;
+	color: white;
+	margin-top: 90%;
+	margin-left: 10%;
+	width: 50%;
+	position: absolute;
+}
