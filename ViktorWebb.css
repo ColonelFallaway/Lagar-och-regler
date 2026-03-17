@@ -48,6 +48,15 @@ border-style: groove;
 border-color: bisque;
 }
 
+.bullshitkommentar{
+	font-size: 80%;
+	color: white;
+	margin-top: 10%;
+	margin-left: 14%;
+	position: absolute;
+	box-sizing: border-box;
+}
+
 .personaldataimg{
 	
 	width: 20px;
